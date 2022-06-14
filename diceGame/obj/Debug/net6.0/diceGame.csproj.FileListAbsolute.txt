@@ -1,0 +1,15 @@
+c:\Users\jacks\Desktop\projects\Swinburne\Challenge3CSharp\diceGame\obj\Debug\net6.0\diceGame.csproj.AssemblyReference.cache
+c:\Users\jacks\Desktop\projects\Swinburne\Challenge3CSharp\diceGame\obj\Debug\net6.0\diceGame.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jacks\Desktop\projects\Swinburne\Challenge3CSharp\diceGame\obj\Debug\net6.0\diceGame.AssemblyInfoInputs.cache
+c:\Users\jacks\Desktop\projects\Swinburne\Challenge3CSharp\diceGame\obj\Debug\net6.0\diceGame.AssemblyInfo.cs
+c:\Users\jacks\Desktop\projects\Swinburne\Challenge3CSharp\diceGame\obj\Debug\net6.0\diceGame.csproj.CoreCompileInputs.cache
+c:\Users\jacks\Desktop\projects\Swinburne\Challenge3CSharp\diceGame\bin\Debug\net6.0\diceGame.exe
+c:\Users\jacks\Desktop\projects\Swinburne\Challenge3CSharp\diceGame\bin\Debug\net6.0\diceGame.deps.json
+c:\Users\jacks\Desktop\projects\Swinburne\Challenge3CSharp\diceGame\bin\Debug\net6.0\diceGame.runtimeconfig.json
+c:\Users\jacks\Desktop\projects\Swinburne\Challenge3CSharp\diceGame\bin\Debug\net6.0\diceGame.dll
+c:\Users\jacks\Desktop\projects\Swinburne\Challenge3CSharp\diceGame\bin\Debug\net6.0\diceGame.pdb
+c:\Users\jacks\Desktop\projects\Swinburne\Challenge3CSharp\diceGame\obj\Debug\net6.0\diceGame.dll
+c:\Users\jacks\Desktop\projects\Swinburne\Challenge3CSharp\diceGame\obj\Debug\net6.0\refint\diceGame.dll
+c:\Users\jacks\Desktop\projects\Swinburne\Challenge3CSharp\diceGame\obj\Debug\net6.0\diceGame.pdb
+c:\Users\jacks\Desktop\projects\Swinburne\Challenge3CSharp\diceGame\obj\Debug\net6.0\diceGame.genruntimeconfig.cache
+c:\Users\jacks\Desktop\projects\Swinburne\Challenge3CSharp\diceGame\obj\Debug\net6.0\ref\diceGame.dll
