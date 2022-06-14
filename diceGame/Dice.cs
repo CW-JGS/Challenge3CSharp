@@ -3,7 +3,7 @@ using System;
 
 namespace DiceNamespace
 {
-    class Dice
+    public class Dice
     {
         private Random randomInstance = new Random();
         public int Sides { get; set; }
@@ -15,7 +15,7 @@ namespace DiceNamespace
         {
             this.Sides = pSides;
         }
-        public int roll()
+        public int Roll()
         {
 
             return randomInstance.Next(1, Sides);

@@ -4,7 +4,7 @@ using DiceNamespace;
 
 namespace GameNamespace
 {
-    abstract class Game
+    public abstract class Game
     {
         public List<Dice> Dice = new List<Dice>();
 
