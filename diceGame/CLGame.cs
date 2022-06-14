@@ -7,10 +7,8 @@ namespace CLGameNamespace
 {
     public class CLGame : Game
     {
-        private string _name;
-        public string Name { get => _name; set => _name = value; }
+        public string Name { get; set; }
         public List<int> Results = new List<int>();
-
         public double GetAverage()
         {
             if (Results.Count == 0)

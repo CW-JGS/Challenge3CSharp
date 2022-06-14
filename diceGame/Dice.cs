@@ -5,7 +5,6 @@ namespace DiceNamespace
 {
     public class Dice
     {
-        private Random randomInstance = new Random();
         public int Sides { get; set; }
         public Dice()
         {
@@ -17,8 +16,7 @@ namespace DiceNamespace
         }
         public int Roll()
         {
-
-            return randomInstance.Next(1, Sides);
+            return new Random().Next(1, Sides + 1);
         }
     }
 }
